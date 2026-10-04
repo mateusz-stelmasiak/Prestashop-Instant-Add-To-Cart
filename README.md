@@ -1,8 +1,6 @@
 <div align="center">
 
 # InstantCart
-<img width="1712" height="1595" alt="image" src="https://github.com/user-attachments/assets/3a3aa40b-d409-40b2-abda-f554bbd2559d" />
-
 
 **Add to cart in the same frame as the click. For PrestaShop.**
 
@@ -16,6 +14,8 @@
 **[▶ Play the demo](https://claude.ai/artifact/WXrHDFGAnimFAT1GvEosi1)** · or open [`docs/demo.html`](docs/demo.html) locally, no server needed
 
 </div>
+<img width="1712" height="1595" alt="image" src="https://github.com/user-attachments/assets/3a3aa40b-d409-40b2-abda-f554bbd2559d" />
+
 
 ---
 
